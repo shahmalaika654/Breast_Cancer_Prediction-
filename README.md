@@ -35,7 +35,7 @@ To run the project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Yuaan121/Breast-Cancer-Prediction.git
+   git clone https://github.com/user/Breast-Cancer-Prediction.git
    ```
 
 2. **Install Dependencies:**
